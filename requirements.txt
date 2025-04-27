@@ -1,1 +1,5 @@
 numpy
+autochord
+tf_keras
+keras==3
+pretty_midi
