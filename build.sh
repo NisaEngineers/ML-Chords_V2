@@ -5,4 +5,6 @@ echo "Installing numpy first..."
 pip install numpy
 
 echo "Installing project requirements..."
-pip install -r requirements.txt
+
+pip install --no-build-isolation -r requirements.txt
+
